@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T13:10:12.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IJVtCucYJTEwtz14Tea4" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T12:01:27.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bNF_Ren_D1mRTpf8Fj5u" version="23.1.1" type="github">
   <diagram id="nv4LuyD0DYh1rWrDZi3e" name="Page-1">
-    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -787,41 +787,71 @@
         <mxCell id="cq9fGqPeD2-OZJ-PsZSs-163" value="buyerda / bu yerga" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-370" y="1930" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-1" value="will" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-1" value="will" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="2180" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-2" value="you know&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-2" value="you know&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="2210" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-3" value="i mean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-3" value="i mean" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="2240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-4" value="there" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-4" value="there" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="2300" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-5" value="like" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-5" value="like" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="2270" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-6" value="xosh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-6" value="xosh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2180" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-7" value="o&#39;sha yerda / o&#39;sha yerga" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-7" value="o&#39;sha yerda / o&#39;sha yerga" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2300" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-8" value="bilasizmi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-8" value="bilasizmi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2210" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-9" value="menimcha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-9" value="menimcha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2240" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-10" value="kabi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-10" value="kabi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2270" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-11" value="sort of" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-11" value="sort of" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="2330" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TN6abju5_GPjVmOOLcu5-12" value="shunga oxshash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TN6abju5_GPjVmOOLcu5-12" value="shunga oxshash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-710" y="2330" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-1" value="to be silent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="2360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-2" value="jim bolmooq" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-3" value="I don&#39;t know if it is real" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="2225" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-4" value="Bu haqiqatmi yoki yo&#39;qligini bilmayman" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="2225" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-5" value="What is difference between" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="2255" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-6" value="orasidagi farqi nima" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="2255" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-7" value="quality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="2390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-8" value="Sifat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-9" value="contemporaty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="2420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="op1pSqrn2wysKlbHeGBp-10" value="Zamondosh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2420" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
